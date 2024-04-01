@@ -1,3 +1,3 @@
 
-print("dcdh  jncjdnc jncjdcnd ncdncjc s")
+print("establishing connection from git to github")
 
